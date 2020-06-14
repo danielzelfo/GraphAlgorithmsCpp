@@ -3,8 +3,8 @@
 
 #include <iostream>
 #include "KruskalMST/driver.h"
-//#include "TopologicalOrdering/driver.h"
-//#include "DijkstraShortestPath/driver.h"
+#include "TopologicalOrdering/driver.h"
+#include "DijkstraShortestPath/driver.h"
 //#include "TransitiveClosure/driver.h"
 //#include "DFS/driver.h"
 
@@ -30,10 +30,10 @@ int main()
             kruskalMSTMain();
             break;
         case 2:
-            //topologicalOrderingMain();
+            topologicalOrderingMain();
             break;
         case 3:
-            //dijkstraShortestPathMain();
+            dijkstraShortestPathMain();
             break;
         case 4:
             //transitiveClosureMain();

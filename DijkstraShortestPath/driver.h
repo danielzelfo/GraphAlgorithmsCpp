@@ -21,7 +21,7 @@
 
 
 
-int main()
+void dijkstraShortestPathMain()
 {
 
     cout << "Dijkstra's Shortest Path Algorithm\n\n";
