@@ -17,7 +17,7 @@
 #include "AdjacencyListGraph.h"
 #include "TopologicalOrdering.h"
 
-int main()
+void topologicalOrderingMain()
 {
 	//building the DAG
 	AdjacencyListGraph<string, int>* ag = new AdjacencyListGraph<string, int>(true);
