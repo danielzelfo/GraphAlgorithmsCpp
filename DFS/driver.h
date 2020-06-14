@@ -17,7 +17,7 @@
 #include "Graph.h"
 #include "AdjacencyListGraph.h"
 
-int main()
+void dfsMain()
 {
 	//creating the graph
 	AdjacencyListGraph<string, int>* ag = new AdjacencyListGraph<string, int>();

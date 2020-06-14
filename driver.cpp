@@ -6,7 +6,7 @@
 #include "TopologicalOrdering/driver.h"
 #include "DijkstraShortestPath/driver.h"
 #include "TransitiveClosure/driver.h"
-//#include "DFS/driver.h"
+#include "DFS/driver.h"
 
 using namespace std;
 
@@ -39,7 +39,7 @@ int main()
             transitiveClosureMain();
             break;
         case 5:
-            //dfsMain();
+            dfsMain();
             break;
         default:
             cout << "Invalid Option (" << option << ")\n";
