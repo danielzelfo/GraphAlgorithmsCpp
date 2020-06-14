@@ -18,7 +18,7 @@
 
 
 
-int main()
+void transitiveClosureMain()
 {
     //setting up the graph
     AdjacencyMatrixGraph g;

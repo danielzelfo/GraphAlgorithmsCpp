@@ -5,7 +5,7 @@
 #include "KruskalMST/driver.h"
 #include "TopologicalOrdering/driver.h"
 #include "DijkstraShortestPath/driver.h"
-//#include "TransitiveClosure/driver.h"
+#include "TransitiveClosure/driver.h"
 //#include "DFS/driver.h"
 
 using namespace std;
@@ -36,7 +36,7 @@ int main()
             dijkstraShortestPathMain();
             break;
         case 4:
-            //transitiveClosureMain();
+            transitiveClosureMain();
             break;
         case 5:
             //dfsMain();
