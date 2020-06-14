@@ -1,8 +1,8 @@
-// AlgorithmsCpp.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// driver.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
-//#include "KruskalMST/driver.h"
+#include "KruskalMST/driver.h"
 //#include "TopologicalOrdering/driver.h"
 //#include "DijkstraShortestPath/driver.h"
 //#include "TransitiveClosure/driver.h"
@@ -27,7 +27,7 @@ int main()
     while (option != 0) {
         switch (option) {
         case 1:
-            //kruskalMSTMain();
+            kruskalMSTMain();
             break;
         case 2:
             //topologicalOrderingMain();

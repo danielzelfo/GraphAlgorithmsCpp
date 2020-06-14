@@ -17,7 +17,7 @@
 #include "AdjacencyListGraph.h"
 #include "MST.h"
 
-int main()
+void kruskalMSTMain()
 {
     //the graph
     AdjacencyListGraph<string, int> g;
