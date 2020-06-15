@@ -1,8 +1,6 @@
 #pragma once
 #include <iostream>
-#include "DFS.h"
-#include "Graph.h"
-#include "Decorator.h"
+#include "../DFS/DFS.h"
 
 using namespace std;
 

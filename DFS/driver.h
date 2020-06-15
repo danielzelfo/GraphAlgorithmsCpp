@@ -14,8 +14,7 @@
 
 #include <iostream>
 #include "DFS1.h"
-#include "Graph.h"
-#include "AdjacencyListGraph.h"
+#include "../AdjacencyListGraph.h"
 
 void dfsMain()
 {

@@ -13,8 +13,6 @@
  */
 
 #include <iostream>
-#include "Graph.h"
-#include "AdjacencyListGraph.h"
 #include "MST.h"
 
 void kruskalMSTMain()

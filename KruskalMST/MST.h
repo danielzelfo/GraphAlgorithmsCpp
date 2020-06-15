@@ -3,8 +3,8 @@
 #include <queue>
 #include <map>
 
-#include "Graph.h"
-#include "AdjacencyListGraph.h"
+#include "../Graph.h"
+#include "../AdjacencyListGraph.h"
 #include "disjoint_sets.h"
 
 

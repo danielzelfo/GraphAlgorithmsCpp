@@ -4,8 +4,8 @@
 #include <vector>
 #include <utility>
 
-#include "Graph.h"
-#include "AdjacencyListGraph.h"
+#include "../Graph.h"
+#include "../AdjacencyListGraph.h"
 
 
 using namespace std;

@@ -12,8 +12,7 @@
  */
 
 #include <iostream>
-#include "Graph.h"
-#include "AdjacencyMatrix.h"
+#include "../AdjacencyMatrixGraph.h"
 #include "TransitiveClosure.h"
 
 
@@ -23,11 +22,11 @@ void transitiveClosureMain()
     //setting up the graph
     AdjacencyMatrixGraph g;
 
-    Vertex* a = g.insertVertex("A");
-    Vertex* b = g.insertVertex("B");
-    Vertex* c = g.insertVertex("C");
-    Vertex* d = g.insertVertex("D");
-    Vertex* e = g.insertVertex("E");
+    Vertex<string>* a = g.insertVertex("A");
+    Vertex<string>* b = g.insertVertex("B");
+    Vertex<string>* c = g.insertVertex("C");
+    Vertex<string>* d = g.insertVertex("D");
+    Vertex<string>* e = g.insertVertex("E");
 
     g.insertEdge(b, a, 1);
     g.insertEdge(b, c, 1);
