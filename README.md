@@ -22,9 +22,7 @@ This program includes Dijkstra's algorithm for the shortest path in a directed g
 v1.1: The map now has the length of the shortest path and a vector of vertices representing the shortest path from the start vertex to all the vertices
 
 
-## SetOperations
-TransitiveClosure
-
+## TransitiveClosure
 C++ Floyd Warshall Transitive Closure Algorithm
 
 This program includes the Floyd-Warshall transitive closure algorithm The transitiveClosure function will alter the graph passed as a parameter to the transitive closure of itself by inserting edges
