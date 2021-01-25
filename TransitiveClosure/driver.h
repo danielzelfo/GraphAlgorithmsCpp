@@ -2,8 +2,8 @@
  *	Author: Daniel Zelfo
  *	Class: CSCI 230
  *	Date: 5/19/2020
- *	Description: This program includes the Floyd-Warshall transitive closure algorithm
- *               The transitiveClosure function will alter the graph passed as a parameter to the transitive closure of itself by inserting edges
+ *	Description: This program includes the Floyd-Warshall transitive closure algorithm.
+ *               The transitiveClosure function will alter the graph passed as a parameter to the transitive closure of itself by inserting edges.
  *
  * I certify that the code below is my own work.
  *

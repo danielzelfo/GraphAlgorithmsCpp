@@ -2,8 +2,8 @@
  *	Author: Daniel Zelfo
  *	Class: CSCI 230
  *	Date: 5/11/2020
- *	Description: This program includes the DFS class, which can be used to traverse a graph. The driver tests the DFS clas using an AdjacencyListGraph.
- *               The DFS class uses decorators to see if a vertex or edge has been visited. For that reason, the Vertex and Edge classes in the Graph.h file need to inherit from Decorator
+ *	Description: This program includes the DFS class, which can be used to traverse a graph. The driver tests the DFS class using an AdjacencyListGraph.
+ *               The DFS class uses decorators to see if a vertex or edge has been visited. For that reason, the Vertex and Edge classes in the Graph.h file need to inherit from the Decorator class.
  *
  *
  * I certify that the code below is my own work.

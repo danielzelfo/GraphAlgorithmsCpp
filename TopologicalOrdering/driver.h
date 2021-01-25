@@ -1,8 +1,8 @@
-/*  Program: Depth First Search
+/*  Program: Topological Ordering
  *	Author: Daniel Zelfo
  *	Class: CSCI 230
  *	Date: 5/11/2020
- *	Description: This program includes the TopologicalOrdering class, which can be used to output the topological ordering of a directed graph
+ *	Description: This program includes the TopologicalOrdering class, which can be used to output the topological ordering of a directed graph.
  *               The TopologicalOrdering class inherits from the DFS class.
  *
  *

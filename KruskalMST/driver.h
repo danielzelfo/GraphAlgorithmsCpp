@@ -3,7 +3,7 @@
  *	Author: Daniel Zelfo
  *	Class: CSCI 230
  *	Date: 6/2/2020
- *	Description: This program includes the MST function, which returns a list of edges that make up a minimum spanning tree of a given graph
+ *	Description: This program includes the MST function, which returns a list of edges that make up a minimum spanning tree of a given graph.
  *               The MST function uses Kruskal's algorithm. The MST function uses the disjoint sets and priority queue data structures.
  *
  * I certify that the code below is my own work.
