@@ -2,11 +2,11 @@
 //
 
 #include <iostream>
-#include "KruskalMST/driver.h"
-#include "TopologicalOrdering/driver.h"
-#include "DijkstraShortestPath/driver.h"
-#include "TransitiveClosure/driver.h"
-#include "DFS/driver.h"
+#include "KruskalMST/driver.hpp"
+#include "TopologicalOrdering/driver.hpp"
+#include "DijkstraShortestPath/driver.hpp"
+#include "TransitiveClosure/driver.hpp"
+#include "DFS/driver.hpp"
 
 using namespace std;
 

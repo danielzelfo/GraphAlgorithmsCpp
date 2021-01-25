@@ -1,6 +1,6 @@
 #pragma once
 #include <iostream>
-#include "../DFS/DFS.h"
+#include "../DFS/DFS.hpp"
 
 using namespace std;
 

@@ -1,6 +1,6 @@
 #pragma once
-#include "../Decorator.h"
-#include "../Graph.h"
+#include "../Decorator.hpp"
+#include "../Graph.hpp"
 
 using namespace std;
 

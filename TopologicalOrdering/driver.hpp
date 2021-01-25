@@ -14,8 +14,8 @@
 
 
 #include <iostream>
-#include "../AdjacencyListGraph.h"
-#include "TopologicalOrdering.h"
+#include "../AdjacencyListGraph.hpp"
+#include "TopologicalOrdering.hpp"
 
 void topologicalOrderingMain()
 {

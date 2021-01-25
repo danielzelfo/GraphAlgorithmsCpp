@@ -3,9 +3,9 @@
 #include <queue>
 #include <map>
 
-#include "../Graph.h"
-#include "../AdjacencyListGraph.h"
-#include "disjoint_sets.h"
+#include "../Graph.hpp"
+#include "../AdjacencyListGraph.hpp"
+#include "disjoint_sets.hpp"
 
 
 struct CompareEdge {

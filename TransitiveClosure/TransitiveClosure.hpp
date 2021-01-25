@@ -1,6 +1,6 @@
 #pragma once
-#include "../Graph.h"
-#include "../AdjacencyMatrixGraph.h"
+#include "../Graph.hpp"
+#include "../AdjacencyMatrixGraph.hpp"
 
 //Floyd-Warshall transitive closure algorithm
 void transitiveClosure(AdjacencyMatrixGraph& g) {

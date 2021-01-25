@@ -3,7 +3,7 @@
 #include <vector>
 #include <list>
 #include <string>
-#include "Decorator.h"
+#include "Decorator.hpp"
 
 using namespace std;
 

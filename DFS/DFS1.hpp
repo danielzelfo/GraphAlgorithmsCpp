@@ -1,7 +1,7 @@
 #pragma once
 
 #include <iostream>
-#include "DFS.h"
+#include "DFS.hpp"
 
 using namespace std;
 

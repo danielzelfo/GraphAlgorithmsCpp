@@ -13,8 +13,8 @@
  */
 
 #include <iostream>
-#include "DFS1.h"
-#include "../AdjacencyListGraph.h"
+#include "DFS1.hpp"
+#include "../AdjacencyListGraph.hpp"
 
 void dfsMain()
 {

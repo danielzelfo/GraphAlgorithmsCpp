@@ -12,8 +12,8 @@
  */
 
 #include <iostream>
-#include "../AdjacencyMatrixGraph.h"
-#include "TransitiveClosure.h"
+#include "../AdjacencyMatrixGraph.hpp"
+#include "TransitiveClosure.hpp"
 
 
 

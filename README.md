@@ -31,4 +31,4 @@ This program includes the Floyd-Warshall transitive closure algorithm. The *tran
 ## DFS
 C++ Depth First Search Algorithm
 
-This program includes the *DFS* class, which can be used to traverse a graph. The driver tests the *DFS* class using an *AdjacencyListGraph*. The *DFS* class uses decorators to see if a vertex or edge has been visited. For that reason, the *Vertex* and *Edge* classes in the Graph.h file need to inherit from the *Decorator* class.
+This program includes the *DFS* class, which can be used to traverse a graph. The driver tests the *DFS* class using an *AdjacencyListGraph*. The *DFS* class uses decorators to see if a vertex or edge has been visited. For that reason, the *Vertex* and *Edge* classes in the Graph.hpp file need to inherit from the *Decorator* class.

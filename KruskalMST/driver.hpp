@@ -13,7 +13,7 @@
  */
 
 #include <iostream>
-#include "MST.h"
+#include "MST.hpp"
 
 void kruskalMSTMain()
 {
